@@ -18,7 +18,7 @@
         <mxCell id="uTgnL6PQfCC-kkQx4BmK-2" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="n1" vertex="1">
           <mxGeometry height="60" width="100" x="340" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="uTgnL6PQfCC-kkQx4BmK-8" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uTgnL6PQfCC-kkQx4BmK-7" value="">
+        <mxCell id="uTgnL6PQfCC-kkQx4BmK-8" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uTgnL6PQfCC-kkQx4BmK-7" value="sim">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uTgnL6PQfCC-kkQx4BmK-10" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uTgnL6PQfCC-kkQx4BmK-9" value="">
@@ -30,10 +30,10 @@
         <mxCell id="uTgnL6PQfCC-kkQx4BmK-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="se o numero é igual a 0 ele é neutro" vertex="1">
           <mxGeometry height="60" width="120" x="510" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="uTgnL6PQfCC-kkQx4BmK-15" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uTgnL6PQfCC-kkQx4BmK-14" value="">
+        <mxCell id="uTgnL6PQfCC-kkQx4BmK-15" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uTgnL6PQfCC-kkQx4BmK-14" value="sim">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uTgnL6PQfCC-kkQx4BmK-17" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uTgnL6PQfCC-kkQx4BmK-16" value="">
+        <mxCell id="uTgnL6PQfCC-kkQx4BmK-17" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uTgnL6PQfCC-kkQx4BmK-16" value="não">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uTgnL6PQfCC-kkQx4BmK-21" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
@@ -60,6 +60,17 @@
           <mxGeometry height="60" width="100" x="340" y="640" as="geometry" />
         </mxCell>
         <mxCell id="uTgnL6PQfCC-kkQx4BmK-22" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="uTgnL6PQfCC-kkQx4BmK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTgnL6PQfCC-kkQx4BmK-23" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="uTgnL6PQfCC-kkQx4BmK-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="330" />
+              <mxPoint x="700" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTgnL6PQfCC-kkQx4BmK-24" edge="1" parent="1" source="uTgnL6PQfCC-kkQx4BmK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" target="uTgnL6PQfCC-kkQx4BmK-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

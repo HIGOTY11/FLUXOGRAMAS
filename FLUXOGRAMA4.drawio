@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.1">
+  <diagram name="Página-1" id="cGILIZk8ZdEd3SzkjIOs">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-4" edge="1" parent="1" source="dWh9tjqZM9M-RdlVnEZU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dWh9tjqZM9M-RdlVnEZU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="INICIO" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-7" edge="1" parent="1" source="dWh9tjqZM9M-RdlVnEZU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dWh9tjqZM9M-RdlVnEZU-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-3" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="n1,n2" vertex="1">
+          <mxGeometry height="60" width="100" x="364" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-10" edge="1" parent="1" source="dWh9tjqZM9M-RdlVnEZU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dWh9tjqZM9M-RdlVnEZU-9" value="sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-16" edge="1" parent="1" source="dWh9tjqZM9M-RdlVnEZU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dWh9tjqZM9M-RdlVnEZU-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" value="n1 &amp;gt; n2" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-12" edge="1" parent="1" source="dWh9tjqZM9M-RdlVnEZU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dWh9tjqZM9M-RdlVnEZU-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-9" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" value="Dif =n1-n2" vertex="1">
+          <mxGeometry height="60" width="120" x="514" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-11" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;rounded=1;arcSize=11;" value="a diferença do n1 para o n2 é Dif" vertex="1">
+          <mxGeometry height="80" width="120" x="514" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="fim" vertex="1">
+          <mxGeometry height="60" width="100" x="364" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-14" edge="1" parent="1" source="dWh9tjqZM9M-RdlVnEZU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="dWh9tjqZM9M-RdlVnEZU-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-18" edge="1" parent="1" source="dWh9tjqZM9M-RdlVnEZU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dWh9tjqZM9M-RdlVnEZU-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-15" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" value="Dif = n2-n1" vertex="1">
+          <mxGeometry height="60" width="120" x="194" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-17" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;rounded=1;arcSize=11;" value="A diferença do n2 para o n1 é Dif" vertex="1">
+          <mxGeometry height="80" width="120" x="194" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="dWh9tjqZM9M-RdlVnEZU-19" edge="1" parent="1" source="dWh9tjqZM9M-RdlVnEZU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="dWh9tjqZM9M-RdlVnEZU-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
