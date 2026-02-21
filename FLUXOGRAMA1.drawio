@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.1">
+  <diagram name="Página-1" id="IiBnmck6TG-d561TqCAs">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-3" edge="1" parent="1" source="GW0hLMebj5jlKcQeFlS_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" target="GW0hLMebj5jlKcQeFlS_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-1" parent="1" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="INICIO" vertex="1">
+          <mxGeometry height="60" width="100" x="364" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-17" edge="1" parent="1" source="GW0hLMebj5jlKcQeFlS_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="GW0hLMebj5jlKcQeFlS_-16" value="NÃO">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-2" parent="1" style="html=1;strokeWidth=3;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="NUM1=NUM2" vertex="1">
+          <mxGeometry height="70" width="100" x="364" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-9" edge="1" parent="1" source="GW0hLMebj5jlKcQeFlS_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="GW0hLMebj5jlKcQeFlS_-8" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;SIM&lt;/font&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-11" edge="1" parent="1" source="GW0hLMebj5jlKcQeFlS_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="GW0hLMebj5jlKcQeFlS_-10" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;NÃO&lt;/font&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;rounded=1;arcSize=11;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;N1 &amp;gt; N2&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-8" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=3;rounded=1;arcSize=11;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;SE O N1 É MAIOR QUE O N2&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="514" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-10" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=3;rounded=1;arcSize=11;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;SE O NUM2 É MAIOR QUE O N1&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="194" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-12" parent="1" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="FIM" vertex="1">
+          <mxGeometry height="60" width="100" x="364" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-14" edge="1" parent="1" source="GW0hLMebj5jlKcQeFlS_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" target="GW0hLMebj5jlKcQeFlS_-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="517" />
+              <mxPoint x="110" y="687" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-15" edge="1" parent="1" source="GW0hLMebj5jlKcQeFlS_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" target="GW0hLMebj5jlKcQeFlS_-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="517" />
+              <mxPoint x="720" y="687" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-19" edge="1" parent="1" source="GW0hLMebj5jlKcQeFlS_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-16" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=3;rounded=1;arcSize=11;" value="NUM1 + NUM2" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="GW0hLMebj5jlKcQeFlS_-18" edge="1" parent="1" source="GW0hLMebj5jlKcQeFlS_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.18;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" target="GW0hLMebj5jlKcQeFlS_-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="225" />
+              <mxPoint x="60" y="714" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
